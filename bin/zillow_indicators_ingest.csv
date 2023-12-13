@@ -1,0 +1,57 @@
+None,indicator_id,indicator,category,ingest
+0,ZSFH,ZHVI Single-Family Homes Time Series ($),Home values,Y
+1,ZCON,ZHVI Condo/Co-op Time Series ($),Home values,N
+2,ZATT,ZHVI All Homes- Top Tier Time Series ($),Home values,N
+3,ZALL,"ZHVI All Homes (SFR, Condo/Co-op) Time Series ($)",Home values,Y
+4,ZABT,ZHVI All Homes- Bottom Tier Time Series ($),Home values,N
+5,Z5BR,ZHVI 5+ Bedroom Time Series ($),Home values,N
+6,Z4BR,ZHVI 4-Bedroom Time Series ($),Home values,N
+7,Z3BR,ZHVI 3-Bedroom Time Series ($),Home values,N
+8,Z2BR,ZHVI 2-Bedroom Time Series ($),Home values,N
+9,Z1BR,ZHVI 1-Bedroom Time Series ($),Home values,N
+10,SSSW,"Median Sale Price (Smooth, SFR only, Weekly View)",Inventory and sales,N
+11,SSSM,"Median Sale Price (Smooth, SFR only, Monthly)",Inventory and sales,N
+12,SSAW,"Median Sale Price (Smooth, All Homes, Weekly View)",Inventory and sales,N
+13,SSAM,"Median Sale Price (Smooth, All Homes, Monthly)",Inventory and sales,N
+14,SRSW,"Median Sale Price (Raw, SFR only, Weekly View)",Inventory and sales,N
+15,SRSM,"Median Sale Price (Raw, SFR only, Monthly)",Inventory and sales,N
+16,SRAW,"Median Sale Price (Raw, All Homes, Weekly View)",Inventory and sales,N
+17,SRAM,"Median Sale Price (Raw, All Homes, Monthly)",Inventory and sales,N
+18,SASW,"Median Sale Price (Smooth & Seasonally Adjusted, SFR only, Weekly View)",Inventory and sales,N
+19,SASM,"Median Sale Price (Smooth & Seasonally Adjusted, SFR only, Monthly)",Inventory and sales,Y
+20,SAAW,"Median Sale Price (Smooth & Seasonally Adjusted, All Homes, Weekly View)",Inventory and sales,N
+21,SAAM,"Median Sale Price (Smooth & Seasonally Adjusted, All Homes, Monthly)",Inventory and sales,Y
+22,RSSA,"ZORI (Smoothed, Seasonally Adjusted): All Homes Plus Multifamily Time Series ($)",Rentals,Y
+23,RSNA,ZORI (Smoothed): All Homes Plus Multifamily Time Series ($),Rentals,N
+24,NSAW,"Median Days to Pending (Smooth, All Homes, Weekly View)",Inventory and sales,N
+25,NSAM,"Median Days to Pending (Smooth, All Homes, Monthly)",Inventory and sales,Y
+26,NRAW,"Median Days to Pending (Raw, All Homes, Weekly View)",Inventory and sales,N
+27,NRAM,"Median Days to Pending (Raw, All Homes, Monthly)",Inventory and sales,N
+28,MSAW,"Mean Days to Pending (Smooth, All Homes, Weekly View)",Inventory and sales,N
+29,MSAM,"Mean Days to Pending (Smooth, All Homes, Monthly)",Inventory and sales,Y
+30,MRAW,"Mean Days to Pending (Raw, All Homes, Weekly View) ",Inventory and sales,N
+31,MRAM,"Mean Days to Pending (Raw, All Homes, Monthly)",Inventory and sales,N
+32,LSSW,"Median List Price (Smooth, SFR Only, Weekly View)",Inventory and sales,N
+33,LSSM,"Median List Price (Smooth, SFR Only, Monthly)",Inventory and sales,Y
+34,LSAW,"Median List Price (Smooth, All Homes, Weekly View)",Inventory and sales,N
+35,LSAM,"Median List Price (Smooth, All Homes, Monthly)",Inventory and sales,Y
+36,LRSW,"Median List Price (Raw, SFR Only, Weekly View)",Inventory and sales,N
+37,LRSM,"Median List Price (Raw, SFR Only, Monthly)",Inventory and sales,N
+38,LRAW,"Median List Price (Raw, All Homes, Weekly View)",Inventory and sales,N
+39,LRAM,"Median List Price (Raw, All Homes, Monthly)",Inventory and sales,N
+40,ISSW,"For-Sale Inventory (Smooth, SFR only, Weekly View)",Inventory and sales,N
+41,ISSM,"For-Sale Inventory (Smooth, SFR only, Monthly)",Inventory and sales,Y
+42,ISAW,"For-Sale Inventory (Smooth, All Homes, Weekly View)",Inventory and sales,N
+43,ISAM,"For-Sale Inventory (Smooth, All Homes, Monthly)",Inventory and sales,Y
+44,IRSW,"For-sale Inventory (Raw, SFR only, Weekly View)",Inventory and sales,N
+45,IRSM,"For-sale Inventory (Raw, SFR only, Monthly)",Inventory and sales,N
+46,IRAW,"For-Sale Inventory (Raw, All Homes, Weekly View)",Inventory and sales,N
+47,IRAM,"For-Sale Inventory (Raw, All Homes, Monthly)",Inventory and sales,N
+48,CSSW,"Share of Listings With a Price Cut (Smooth, SFR Only, Weekly View)",Inventory and sales,N
+49,CSSM,"Share of Listings With a Price Cut (Smooth, SFR Only, Monthly)",Inventory and sales,Y
+50,CSAW,"Share of Listings With a Price Cut (Smooth, All Homes, Weekly View)",Inventory and sales,N
+51,CSAM,"Share of Listings With a Price Cut (Smooth, All Homes, Monthly)",Inventory and sales,Y
+52,CRSW,"Share of Listings With a Price Cut (Raw, SFR Only, Weekly View)",Inventory and sales,N
+53,CRSM,"Share of Listings With a Price Cut (Raw, SFR Only, Monthly)",Inventory and sales,N
+54,CRAW,"Share of Listings With a Price Cut (Raw, All Homes, Weekly View)",Inventory and sales,N
+55,CRAM,"Share of Listings With a Price Cut (Raw, All Homes, Monthly)",Inventory and sales,N

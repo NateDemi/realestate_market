@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "market-analysis-378921",
+  "private_key_id": "279a2ad69682d47bec1d8ab4550203ab1f74cd95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuhmyuYIWgolDQ\n3jEcOeW3WB6QzaHmqRG34My2Z/hDxylnCXImgcIBal/qDE9zWd5IV1Gbs15scZki\npbJoKiPpPm6KEp5qpP5LAFqYk05Vqy0dSwO1fipwD6kV2sWRpBkpFD28zv8R+bpU\nqtwkJeFiGuEoLbL7VEm6gnkr1S7OtZHp5tFqtXD5vX3JUTdAad6r02YpIX4omTL3\nK3I3Olkjth0/fUnilGfbZaTEWobUrKX8+T+xzP0Y63QS113sO1/IennysfUiN1Gf\nAA2m7UmwYzCbD+niO0/hcTxgovcwA//kKmF8xq6d+BKXweCdYFENPZmjLqTL8Gfd\naAbE0EtrAgMBAAECggEAFd5aN+94TwyHu+RbmwHWOwcbrWFW7CQ7SCMvA5w7i6Kl\nGXghiZmwyaSeqCEqw3V7WO04GJ59MnF5ktHYbRz6qvtbtolmuE48XwGIWJ38rtdo\nK8d+i3tnresIcOic4QcC8BbNNZ9qbsIwCvPt6cmlWDmuBO7VApEpO+mlbUylNNlu\nmddE5IGPDhORonY6z454bUn0PdD38yM/HQArQue68i+Ht7S/bbB2u+9QPTHJ00SB\nirkuiNTtCZsJo12edEc4LJsusCEI9jh9ZluZgAg08GOKhAShs+YnYUhQ0+CaL028\naoQ8WwzmgwIvYTwC+kxnLtTOkK7oqTRrSh3xf7J/oQKBgQDVKk+yFbi8vOGVw9m3\nc0D5Iq3ba18HiKM1T7Wj8oTBKctco5cNa99BTqfdtl14xcBoPtL0FaL+wbrzDQTB\nC/qKhC2LktILX4UfrmzI+HKSSl6YcJV2urp0UnQUvCUY2y07wmeusWdas8G5yAcS\nx7TGApHnUdvLqAqcEHxuMDoTNwKBgQDRmGCrfy64fR7AjeNSO1nHHhVolPJKmp/B\niw1NfJq59VnL+uci0zwuxGqZpk2jiQ1CoUKP4WMLupHKRNEvNZ4XXGMGNnv/exNY\nQdh6j8BEKUa3mltY07Zf4Mx1MnmwckUBeWa1T4KxUJDNK6Y5ADXotkCKHobN6gFW\nodyk/7NLbQKBgQC+7+JpAvnx3UI3UzHeF9eYEU8nnpqFdgezBg4Op3nwSA6HkWUJ\nOZnFtr24Y9SADKoW9kchKYxRo5hgg0XB4YfusQzW25FXbJ0izqtUrO57STBIXXgT\n3JiM/xpJRGn6RMDUqYMTwIZygVdCoQBs+wNa5gxo5jL5zjCKsF20mXA7qwKBgCff\nyWRXCdhnVVZkp/6Y8/eBraj7zSyMRiBYB+vZ7MW7+51m2loxvZ1YGL+qd9LI3BD1\nBOjChElS8TF97h4BIVZoaR5hdy2fiIqd3EVU28sb3yxG3WIExQlwhvU06Rm8Y4xo\nQDX2LnL1VNbzmuf1NkxTf+vG6vZ5sk9887EgREfxAoGBAMR8F3UOpeV4wIJJeXrc\nYV94uE2ohLQAjRH7O7EUZzxDcbU96a8s2C8vOS8I2uxfF2rGpwglAOlaqXlZP4Ot\nBEA4/g7n58bgmA5Wx8y5B1dN48bTcTM/H8r4acCAQd7BzWrsk/JcQyCJmrbEO3pP\nSgk9JhrpaH8OmuPHtkLMrMSc\n-----END PRIVATE KEY-----\n",
+  "client_email": "market-insight@market-analysis-378921.iam.gserviceaccount.com",
+  "client_id": "101974191349390025896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/market-insight%40market-analysis-378921.iam.gserviceaccount.com"
+}

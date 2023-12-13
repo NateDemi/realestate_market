@@ -1,0 +1,18 @@
+2023-12-02 17:30:19,211 - INFO - Starting process ...
+2023-12-02 17:32:04,296 - INFO - Starting process ...
+2023-12-02 17:32:27,046 - INFO - Starting process ...
+2023-12-02 17:32:27,049 - INFO - Removing existing file: ./fred_data
+2023-12-02 17:32:27,056 - ERROR - Error removing file ./fred_data: name 'send2trash' is not defined
+2023-12-02 17:32:27,102 - DEBUG - Starting new HTTPS connection (1): fred.stlouisfed.org:443
+2023-12-02 17:32:27,419 - DEBUG - https://fred.stlouisfed.org:443 "GET /graph/fredgraph.csv?id=MORTGAGE30US HTTP/1.1" 200 12184
+2023-12-02 17:32:59,626 - INFO - Starting process ...
+2023-12-02 17:32:59,626 - INFO - Removing existing file: ./fred_data
+2023-12-02 17:32:59,627 - ERROR - Error removing file ./fred_data: name 'send2trash' is not defined
+2023-12-02 17:32:59,668 - DEBUG - Starting new HTTPS connection (1): fred.stlouisfed.org:443
+2023-12-02 17:32:59,842 - DEBUG - https://fred.stlouisfed.org:443 "GET /graph/fredgraph.csv?id=MORTGAGE30US HTTP/1.1" 200 12184
+2023-12-02 17:33:50,297 - INFO - Starting process ...
+2023-12-02 17:33:50,298 - WARNING - ./fred_data/mortage_rates.csv does not exist
+2023-12-02 17:33:50,336 - DEBUG - Starting new HTTPS connection (1): fred.stlouisfed.org:443
+2023-12-02 17:33:50,522 - DEBUG - https://fred.stlouisfed.org:443 "GET /graph/fredgraph.csv?id=MORTGAGE30US HTTP/1.1" 200 12184
+2023-12-02 17:33:50,553 - INFO - Mortage rates updated
+2023-12-02 17:33:50,553 - INFO - Process compeleted
